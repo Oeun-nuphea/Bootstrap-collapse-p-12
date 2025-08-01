@@ -2,16 +2,15 @@ body {
   background-color: rgb(240, 240, 242);
 }
 
-
 .resume button:hover,
 .resume button:hover i,
 .resume .added-icon i:hover {
   color: rgb(25, 135, 84) !important;
 }
 
-.resume .added-icon i{
-    font-size: 18px;
-    color: black
+.resume .added-icon i {
+  font-size: 18px;
+  color: black;
 }
 
 .resume .timeline {
